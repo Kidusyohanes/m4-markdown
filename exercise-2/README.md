@@ -6,7 +6,7 @@ In the space below, make a three column table of the current courses you are tak
 
 See `complete` branch for answers.
 
-    Course #      |        Course Title                    |     Instructor 
-    **INFO 201**    _Technical Foundations of Informatics_     MICHAEL FREEMAN
-    **AFRAM 101**   _African American Studies_                 Brukab Sisay 
-    **BIO A 201**   _Bio Antropology_                          MATTHEW STRICKLAND TAYLOR
+#Course Number      |        Course Title                     |     Instructor 
+   **INFO 201**        *Technical Foundations of Informatics*     MICHAEL FREEMAN
+   **AFRAM 101**       *African American Studies*                 Brukab Sisay 
+   **BIO A 201**       *Bio Antropology*                          MATTHEW STRICKLAND TAYLOR
