@@ -6,11 +6,11 @@ In the space below, make a three column table of the current courses you are tak
 
 See `complete` branch for answers.
 
- | Course Number || Course Title ||Instructor |
- |---------------||----------------------------------------||-----------------|
- | **INFO 201**  || *Technical Foundations of Informatics* || MICHAEL FREEMAN |
- | **AFRAM 101** || *African American Studies*             || Brukab Sisay |   
- | **BIO A 201** || *Bio Antropology*                      || MATTHEW STRICKLAND TAYLOR |
+ | Course Number | Course Title | Instructor |
+ | --------------- | ----------------------------------------|-----------------|
+ | **INFO 201**    | *Technical Foundations of Informatics*  | MICHAEL FREEMAN |
+ | **AFRAM 101**   | *African American Studies*              | Brukab Sisay |   
+ | **BIO A 201**   | *Bio Antropology*                       | MATTHEW STRICKLAND TAYLOR |
 
 | Symbol | Format	|
 | ------------- |  ------------- |
