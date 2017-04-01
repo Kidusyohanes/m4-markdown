@@ -11,3 +11,9 @@ See `complete` branch for answers.
  | **INFO 201**  || *Technical Foundations of Informatics* || MICHAEL FREEMAN |
  | **AFRAM 101** || *African American Studies*             || Brukab Sisay |   
  | **BIO A 201** || *Bio Antropology*                      || MATTHEW STRICKLAND TAYLOR |
+
+| Symbol | Format	|
+| ------------- |  ------------- |
+| ``` `WORD` ``` | Inline code element	|
+| `**WORD**`	| Bold	|
+| `_WORD_`	| Italics	|
