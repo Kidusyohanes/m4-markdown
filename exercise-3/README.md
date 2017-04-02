@@ -8,4 +8,14 @@ A `heading` with the name of the command
 An example of how it can be used (with appropriate code highlighting)
 A _nested list_ of information about the command (i.e., things that it does, or how it can be used)
 
+# mkdir  = make a directory 
+This command is used to create a new directory/folders in a place that it's called. 
+Ex. If user is currently at Desktop and want's to create a new directory this is what 
+            the comman that would be typed in the terminal `mkdir DIRECTORY_NAME` 
+        
+
 See `complete` branch for answers.
+
+            
+
+
