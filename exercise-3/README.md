@@ -11,10 +11,11 @@ A _nested list_ of information about the command (i.e., things that it does, or 
 # mkdir  = make a directory 
 The `mkdir` command is used to create a new directory/folders in a place that it is being called on. 
 Ex. If a user is currently at Desktop and want to create a new directory, this is the command
- that would be typed in the terminal ``` `mkdir DIRECTORY_NAME` ``` -> ``` `mkdir assignments` ```
- Information about `mkdir` :
+ that would be typed in the terminal ``` `mkdir DIRECTORY_NAME` ``` -> ``` `mkdir assignments` ```. 
+
+   Information about `mkdir` :
  * Creates a new directory or folder with a given name 
- * the parameter it takes/uses is Name of a folder/directory given by the user. 
+ * the parameter it takes/uses is _Name_ of a folder/directory given by the user. 
 
 See `complete` branch for answers.
 
